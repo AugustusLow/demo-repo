@@ -13,11 +13,8 @@ Step 3:git remote add origin (git@github.com [copylink])
 Step 4:git push -u origin master (-u add upstream, push to chosen default branch)
 
 Create new branch -> git checkout -b (new branch name)
-<<<<<<< HEAD
 git checkout (name of branch) -> to switch btw branches
 git branch -> to check which branch
-=======
->>>>>>> 8fbcaa5635eb7c0ad51c666fbc98f80bac322053
 
 passcode = iloveninja
 
