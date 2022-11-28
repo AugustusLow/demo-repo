@@ -13,6 +13,8 @@ Step 3:git remote add origin (git@github.com [copylink])
 Step 4:git push -u origin master (-u add upstream, push to chosen default branch)
 
 Create new branch -> git checkout -b feature-sql
+git checkout (name of branch) -> to switch btw branches
+git branch -> to check which branch
 
 passcode = iloveninja
 
